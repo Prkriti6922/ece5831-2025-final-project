@@ -37,7 +37,7 @@ The approach is inspired by prior work on CNN-based image colorization and focus
 The diversity of the COCO dataset enables the model to learn generalized color patterns rather than overfitting to a specific scene type.
 
 📁 **Dataset Link:**  
-👉 [Download Dataset (Google Drive)](https://drive.google.com/drive/u/2/folders/1Pb6eSOvGjF5iwpB2sYOf7LmYIRbc2Ij9)
+👉 [Download Dataset (Google Drive)](https://cocodataset.org/)
 
 ---
 
@@ -45,8 +45,7 @@ The diversity of the COCO dataset enables the model to learn generalized color p
 
 ### 1. Clone the repository
 
-git clone https://github.com/<your-username>/ece5831-2025-final-project.git
-cd ece5831-2025-final-project
+git clone https://github.com/Prkriti6922/ece5831-2025-final-project.git
 
 
 ### 2. Install Dependencies:
