@@ -32,21 +32,22 @@ The approach is inspired by prior work on CNN-based image colorization and focus
 - **Usage:** A subset of the dataset was used due to computational constraints
 - **Content:** Diverse real-world scenes including people, animals, indoor and outdoor environments
 - **Image Size:** All images resized to **128 × 128**
-- **Split:** Separate training and testing sets to ensure fair evaluation
+- **Split:** Separate training and testing sets
 
 The diversity of the COCO dataset enables the model to learn generalized color patterns rather than overfitting to a specific scene type.
 
 📁 **Dataset Link:**  
-👉 `ADD_DATASET_GOOGLE_DRIVE_LINK_HERE`
+👉 [Download Dataset (Google Drive)](https://drive.google.com/drive/u/2/folders/1Pb6eSOvGjF5iwpB2sYOf7LmYIRbc2Ij9)
 
 ---
 
 ## ▶️ How to Run the Project
-1. Clone the repository:
+
+### 1. Clone the repository
 ```bash
 git clone https://github.com/<your-username>/ece5831-2025-final-project.git
 cd ece5831-2025-final-project
-
+---
 
 2. Install Dependencies:
 pip install tensorflow opencv-python matplotlib numpy
@@ -90,4 +91,3 @@ https://drive.google.com/drive/u/2/folders/1Pb6eSOvGjF5iwpB2sYOf7LmYIRbc2Ij9
 
 5. Demo Video
 https://www.youtube.com/watch?v=RueoSGibCSY
-[Demo Video](https://github.com/your-username/your-repo)
