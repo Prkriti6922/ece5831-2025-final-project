@@ -38,6 +38,8 @@ The diversity of the COCO dataset enables the model to learn generalized color p
 
 📁 **Dataset Link:**  
 👉 [Download Dataset](https://cocodataset.org/)
+[Training Images](https://images.cocodataset.org/zips/train2017.zip)
+[Validation Images](https://images.cocodataset.org/zips/val2017.zip)
 
 ---
 
