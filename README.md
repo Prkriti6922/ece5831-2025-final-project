@@ -37,8 +37,9 @@ The approach is inspired by prior work on CNN-based image colorization and focus
 The diversity of the COCO dataset enables the model to learn generalized color patterns rather than overfitting to a specific scene type.
 
 📁 **Dataset Link:**  
-👉 [Download Dataset](https://cocodataset.org/)
-[Training Images](https://images.cocodataset.org/zips/train2017.zip)
+👉 [Download Dataset](https://cocodataset.org/), 
+[Training Images](https://images.cocodataset.org/zips/train2017.zip),
+
 [Validation Images](https://images.cocodataset.org/zips/val2017.zip)
 
 ---
