@@ -1,5 +1,5 @@
 # Automatic Image Colorization Using Deep Learning  
-**ECE 5831 – Neural Networks / Deep Learning | Final Project**
+**ECE 5831 – Neural Networks | Final Project**
 
 ---
 
@@ -37,7 +37,7 @@ The approach is inspired by prior work on CNN-based image colorization and focus
 The diversity of the COCO dataset enables the model to learn generalized color patterns rather than overfitting to a specific scene type.
 
 📁 **Dataset Link:**  
-👉 [Download Dataset (Google Drive)](https://cocodataset.org/)
+👉 [Download Dataset](https://cocodataset.org/)
 
 ---
 
