@@ -41,21 +41,23 @@ The diversity of the COCO dataset enables the model to learn generalized color p
 
 ---
 
-## ▶️ How to Run the Project
+## How to Run the Project
 
 ### 1. Clone the repository
-```bash
+
 git clone https://github.com/<your-username>/ece5831-2025-final-project.git
 cd ece5831-2025-final-project
----
 
-2. Install Dependencies:
+
+### 2. Install Dependencies:
 pip install tensorflow opencv-python matplotlib numpy
 
-3. Open and run
+### 3. Open and run
 final-project.ipynb
 
 This notebook loads the pretrained model, performs inference on test images, and saves the results to the results/ directory.
+
+---
 
 ## Evaluation
 Because image colorization has no single ground-truth solution, evaluation is performed using both quantitative metrics and qualitative visual inspection.
@@ -67,6 +69,7 @@ Because image colorization has no single ground-truth solution, evaluation is pe
 Quantitative metrics are computed by comparing the predicted colorized image with the original color image.
 Qualitative evaluation compares grayscale input, predicted colorization, and original image side-by-side.
 
+---
 
 ## Results
 
@@ -76,18 +79,20 @@ Common objects (sky, vegetation, skin tones) are colorized consistently
 Some desaturation is observed, which is expected with MSE-based regression models
 Sample outputs, training curves, and evaluation plots are saved in the results/ directory.
 
+---
+
 ## Submission Links:
-1. Pre recorded presentation video:
-https://drive.google.com/drive/u/2/folders/1uhjc76yLx0WU4-tSu5xiNiTE2vr3IODq    
+## 🔗 Submission Links
 
-2. Presentation slides
-https://docs.google.com/presentation/d/1XlHbCQUlbvBFj9wDvzVj4H3eAB5ZTk9G/edit?slide=id.p1#slide=id.p1
+- **Pre-recorded Presentation Video**  
+  https://drive.google.com/drive/u/2/folders/1uhjc76yLx0WU4-tSu5xiNiTE2vr3IODq
 
-3. Final report
-https://drive.google.com/drive/u/2/folders/1uhjc76yLx0WU4-tSu5xiNiTE2vr3IODq    
+- **Presentation Slides**  
+  https://docs.google.com/presentation/d/1XlHbCQUlbvBFj9wDvzVj4H3eAB5ZTk9G/edit
 
-4. Dataset
-https://drive.google.com/drive/u/2/folders/1Pb6eSOvGjF5iwpB2sYOf7LmYIRbc2Ij9
+- **Final Report**  
+  https://drive.google.com/drive/u/2/folders/1uhjc76yLx0WU4-tSu5xiNiTE2vr3IODq
 
-5. Demo Video
-https://www.youtube.com/watch?v=RueoSGibCSY
+- **Demo Video**  
+  https://www.youtube.com/watch?v=RueoSGibCSY
+
